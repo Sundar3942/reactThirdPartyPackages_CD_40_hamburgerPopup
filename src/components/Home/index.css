@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.home-page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  width: 800px;
+}

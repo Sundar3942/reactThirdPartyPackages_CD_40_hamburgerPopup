@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.not-found-page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-img {
+  width: 200px;
+  margin-bottom: 20px;
+}
+.not-found-page-heading {
+  font-size: 30px;
+  color: rgb(32, 32, 66);
+}
+.not-found-page-description {
+  font-size: 27px;
+  color: rgb(101, 101, 101);
+}

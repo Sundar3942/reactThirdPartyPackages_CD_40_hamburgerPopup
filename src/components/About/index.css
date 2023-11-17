@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.about-page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-img {
+  width: 800px;
+}
